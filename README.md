@@ -1,0 +1,53 @@
+# LANA – 99
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.57] 99
+[00:21.35] I've been waiting so long
+[00:24.34] Oh, 99
+[00:27.02] Where did we go wrong?
+[00:29.75] Oh, 99
+[00:34.30] I love you
+[00:39.30] 
+[00:38.18] 99
+[00:40.26] I keep breaking your heart
+[00:43.28] Oh, 99
+[00:45.64] How can we be apart
+[00:48.69] Oh, 99
+[00:53.02] I love you
+[00:58.02] 
+[00:55.85] I never thought it would happen
+[00:58.87] I feel quite the same
+[01:01.51] I don't want to hurt you anymore
+[01:05.56] I never knew it would work out
+[01:08.46] No one to blame
+[01:11.13] You know I love you, 99
+[01:22.63] 
+[01:16.38] 99
+[01:18.54] You keep holding my hand
+[01:21.59] Oh, 99
+[01:23.92] They don't know who I am
+[01:26.95] Oh, 99
+[01:31.28] I love you
+[01:36.28] 
+[02:12.05] I never thought it would happen
+[02:14.73] I feel quite the same
+[02:17.63] I don't want to hurt you anymore
+[02:21.78] I never knew it would work out
+[02:24.65] No one to blame
+[02:27.36] You know I love you 99
+[02:38.36] 
+[02:32.77] 99
+[02:34.82] I can't take it no more
+[02:37.71] Oh, 99
+[02:40.32] Oh, we were so sure
+[02:43.04] Oh, 99
+[02:47.67] I love you
+[02:51.92] 99
+[02:52.92] 
+[03:06.52] I love you
+[03:10.73] 99
+[03:11.73] 
+[03:25.41] I love you
+```
