@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "99",
+  "base_artist": "LANA",
+  "createdAt": "2025-12-04T13:01:54.948735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "99 Luftballons",
+      "artist": "Nena",
+      "has_synced": true,
+      "path": "select/01_99_Luftballons_Nena.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "99 Bierkanister",
+      "artist": "Deichkind",
+      "has_synced": false,
+      "path": "select/02_99_Bierkanister_Deichkind.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マクロスMACROSS 82-99 - 葛城 ミサトYEBISU (YUNG BAE EDIT)",
+      "artist": "YUNG BAE",
+      "has_synced": true,
+      "path": "select/03_マクロスMACROSS_82-99_-_葛城_ミサトYEBISU_(YUNG_BAE_EDIT)_YUNG_BAE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "99",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/04_99_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "99 Ways to Die",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/05_99_Ways_to_Die_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "99 Problems & Messages",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/06_99_Problems_&_Messages_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dance for Me 99",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/07_Dance_for_Me_99_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let’s Get It On 99",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/08_Let’s_Get_It_On_99_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Secret Land (radio edit 99)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/09_Secret_Land_(radio_edit_99)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "99 Pounds",
+      "artist": "Ann Peebles",
+      "has_synced": true,
+      "path": "select/10_99_Pounds_Ann_Peebles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Work to Make It Work 99",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/11_Work_to_Make_It_Work_99_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "99",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/12_99_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Justified & Ancient (Make Mine a \"99\")",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/13_Justified_&_Ancient_(Make_Mine_a__99_)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Revolution Action (live in San Francisco 99)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/14_Revolution_Action_(live_in_San_Francisco_99)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Revolution Action (Live in San Fransisco '99)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/15_Revolution_Action_(Live_in_San_Fransisco_'99)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Benny And The Jets - Digitally Remastered 99",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/16_Benny_And_The_Jets_-_Digitally_Remastered_99_Beastie_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "99",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_99_LANA.txt"
+    }
+  ]
+}
